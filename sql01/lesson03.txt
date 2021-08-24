@@ -110,3 +110,11 @@ NULLのデータを取得する
   「指定したカラムがNULLであるデータ」を取得することが可能です。
 
   参考画像：SQL01_image_35.jpg
+
+
+NULLではないデータを取得する場合
+  一方、「NULLではないデータ」を取得する場合は「～がNULLでない」という
+  意味になる「IS NOT NULL」を用います。「IS NOT NULL」も「IS NULL」
+  と同様に、「カラム名 IS NOT NULL」のようにして使います。
+
+  参考画像：SQL01_image_36.jpg
