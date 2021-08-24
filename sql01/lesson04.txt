@@ -57,4 +57,10 @@ ORDER BY
   「降順」は「大きい数から小さい数へ向かう順序」です。
   SQLでは「昇順」は「ASC」、「降順」は「DESC」を指定します。
 
-  参考画像：SQL01_image_43　.jpg
+  参考画像：SQL01_image_43.jpg
+
+
+ORDER BY(2)
+  「ORDER BY」は図のようにクエリの末尾に記述することで、取得結果を並び替えます。
+
+  参考画像：SQL01_image_44.jpg
